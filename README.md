@@ -18,7 +18,7 @@ public class SearchModule {
                     System.out.println("Displaying Finance Summary...");
                     break;
                 default:
-                    System.out.println("Invalid category. Please try again.");
+                    System.out.println("Invalid category. please try again.");
             }
 
             System.out.println("Search complete.\n");
